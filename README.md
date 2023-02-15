@@ -2,9 +2,9 @@
 <h3 align="center">A passionate full stack developer from Morocco</h3>
 
 
-- 🌱 I’m currently learning **Laravel,ReactJS**
+- 🌱 I’m currently learning **Laravel**
 
-- 💬 Ask me about **PHP**
+- 💬 Ask me about **PHP** **ReactJS**
 
 - 📫 How to reach me **saidbelkaz6@gmail.com**
 
