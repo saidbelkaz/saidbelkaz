@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm SA ID</h1>
-<h3 align="center">A passionate full stack developer from Morocco</h3>
+<h3 align="center">A passionate full stack developer</h3>
 
 
-- 🌱 I’m currently learning **Spring boot**
+- 🌱 I’m currently learning **Java**
 
-- 💬 Ask me about **PHP** **ReactJS** **Laravel**
+- 💬 Ask me about **PHP** **ReactJS** **React Native CLI/Expo** **ExpressJs** **Laravel** **Spring Boot**
 
 - 📫 How to reach me **saidbelkaz6@gmail.com**
 
